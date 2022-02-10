@@ -21,7 +21,7 @@
     "express-fileupload": "^1.1.6",
     "favicon": "0.0.2",
     "fs": "0.0.1-security",
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "devDependencies": {
     "typescript": "^3.7.5"
