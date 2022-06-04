@@ -119,4 +119,4 @@ dist
 .pnp.*
 
 # intellij
-.idea
+./.idea
