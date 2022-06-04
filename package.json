@@ -1,12 +1,12 @@
 {
-  "name": "dndmapeditor",
+  "name": "2d-map-editor",
   "version": "1.0.0",
   "description": "A Dungeons and Dragons map editor",
   "main": "server.js",
   "scripts": {
     "test": "test"
   },
-  "git": "https://github.com/Pho3b/DndMapEditor.git",
+  "git": "git@github.com:Pho3b/2d-map-editor.git",
   "author": "Andrea Rinaldi",
   "license": "ISC",
   "dependencies": {
