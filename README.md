@@ -1,6 +1,7 @@
 
 ## Project
-A 2D grid based drawing system developed using ``Node v12.15.0`` and ``ejs(embedded javascript templating)``.
+A 2D grid based drawing system developed using ``Node v12.15.0`` and ``ejs(embedded javascript templating)``.    
+A demo of the project can be found --> [2D-map-editor](https://dnd-map-editor.herokuapp.com/) 
 
 
 #### Features
